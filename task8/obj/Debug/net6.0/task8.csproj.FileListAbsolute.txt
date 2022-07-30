@@ -1,0 +1,16 @@
+C:\GB\c_program\HWGH1\HomeWork1\task8\bin\Debug\net6.0\task8.exe
+C:\GB\c_program\HWGH1\HomeWork1\task8\bin\Debug\net6.0\task8.deps.json
+C:\GB\c_program\HWGH1\HomeWork1\task8\bin\Debug\net6.0\task8.runtimeconfig.json
+C:\GB\c_program\HWGH1\HomeWork1\task8\bin\Debug\net6.0\task8.dll
+C:\GB\c_program\HWGH1\HomeWork1\task8\bin\Debug\net6.0\ref\task8.dll
+C:\GB\c_program\HWGH1\HomeWork1\task8\bin\Debug\net6.0\task8.pdb
+C:\GB\c_program\HWGH1\HomeWork1\task8\obj\Debug\net6.0\task8.GlobalUsings.g.cs
+C:\GB\c_program\HWGH1\HomeWork1\task8\obj\Debug\net6.0\task8.csproj.AssemblyReference.cache
+C:\GB\c_program\HWGH1\HomeWork1\task8\obj\Debug\net6.0\task8.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\c_program\HWGH1\HomeWork1\task8\obj\Debug\net6.0\task8.AssemblyInfoInputs.cache
+C:\GB\c_program\HWGH1\HomeWork1\task8\obj\Debug\net6.0\task8.AssemblyInfo.cs
+C:\GB\c_program\HWGH1\HomeWork1\task8\obj\Debug\net6.0\task8.csproj.CoreCompileInputs.cache
+C:\GB\c_program\HWGH1\HomeWork1\task8\obj\Debug\net6.0\task8.dll
+C:\GB\c_program\HWGH1\HomeWork1\task8\obj\Debug\net6.0\ref\task8.dll
+C:\GB\c_program\HWGH1\HomeWork1\task8\obj\Debug\net6.0\task8.pdb
+C:\GB\c_program\HWGH1\HomeWork1\task8\obj\Debug\net6.0\task8.genruntimeconfig.cache
